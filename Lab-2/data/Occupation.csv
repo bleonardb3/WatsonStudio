@@ -1,0 +1,493 @@
+OCCUPATION,Code
+"Chiropodist",6
+"Engineer, structural",2
+"Engineer, land",2
+"Careers adviser",15
+"Geneticist, molecular",7
+"Electronics engineer",2
+"Editor, commissioning",4
+"Writer",4
+"Recruitment consultant",15
+"Theatre manager",8
+"Statistician",2
+"Merchant navy officer",15
+"Advertising account executive",9
+"Administrator, local government",5
+"Corporate treasurer",14
+"Paramedic",6
+"Special effects artist",8
+"Architect",11
+"Actor",8
+"Science writer",4
+"Surveyor, building control",11
+"Clinical molecular geneticist",7
+"Retail buyer",12
+"Technical sales engineer",2
+"Waste management officer",13
+"Restaurant manager, fast food",12
+"Customer service manager",12
+"Print production planner",13
+"Doctor, general practice",6
+"Forest/woodland manager",11
+"Educational psychologist",6
+"Surveyor, rural practice",11
+"Dispensing optician",6
+"Land/geomatics surveyor",11
+"Editor, film/video",8
+"Make",15
+"Jewellery designer",12
+"Oncologist",6
+"Administrator, arts",8
+"Therapist, nutritional",6
+"Proofreader",4
+"Veterinary surgeon",6
+"Advertising account planner",9
+"Research officer, government",5
+"Nurse, adult",6
+"Surveyor, quantity",11
+"Development worker, community",11
+"Radiographer, therapeutic",6
+"Probation officer",15
+"Health visitor",6
+"Investment banker, corporate",14
+"Newspaper journalist",4
+"Psychologist, sport and exercise",6
+"Fashion designer",12
+"Theatre director",8
+"Horticultural therapist",6
+"Sales promotion account executive",9
+"Health and safety inspector",11
+"Engineer, communications",2
+"Administrator, Civil Service",5
+"Engineer, drilling",2
+"Arts development officer",8
+"Engineer, mining",2
+"Music tutor",8
+"Landscape architect",11
+"Retail manager",12
+"Clinical embryologist",6
+"Medical illustrator",6
+"Restaurant manager",12
+"Air broker",15
+"Scientist, clinical (histocompatibility and immunogenetics)",7
+"Fast food restaurant manager",12
+"Dramatherapist",6
+"Ship broker",15
+"Musician",8
+"Education officer, museum",13
+"Medical sales representative",6
+"Health physicist",6
+"Producer, television/film/video",8
+"Call centre manager",12
+"Lecturer, further education",13
+"Homeopath",6
+"Radiographer, diagnostic",6
+"Special educational needs teacher",13
+"Air cabin crew",15
+"Insurance risk surveyor",11
+"Systems developer",3
+"Astronomer",7
+"Hydrographic surveyor",11
+"Systems analyst",3
+"Academic librarian",13
+"Financial trader",14
+"Secondary school teacher",13
+"Scientist, water quality",7
+"Programmer, systems",3
+"Geochemist",7
+"Barrister's clerk",10
+"Animal technologist",15
+"Community development worker",5
+"Quality manager",15
+"Furniture conservator/restorer",8
+"Librarian, academic",13
+"Accountant, chartered",14
+"Tree surgeon",15
+"Garment/textile technologist",12
+"Heritage manager",15
+"Control and instrumentation engineer",2
+"Theatre stage manager",8
+"Animator",8
+"Community arts worker",8
+"Energy engineer",2
+"Archaeologist",7
+"Research officer, political party",5
+"Investment analyst",14
+"Surgeon",6
+"Lawyer",10
+"Tourism officer",1
+"Psychologist, clinical",6
+"Occupational therapist",6
+"Interpreter",15
+"Government social research officer",5
+"Agricultural engineer",2
+"Historic buildings inspector/conservation officer",5
+"Computer games developer",3
+"Early years teacher",13
+"Merchandiser, retail",12
+"Textile designer",15
+"Counsellor",6
+"Further education lecturer",13
+"Engineer, maintenance",2
+"Cartographer",15
+"Colour technologist",15
+"Pharmacist, community",6
+"Transport planner",5
+"Scientist, research (medical)",7
+"Hospital doctor",6
+"Film/video editor",8
+"Theme park manager",1
+"Housing manager/officer",11
+"Engineer, broadcasting (operations)",2
+"Commercial/residential surveyor",11
+"Television floor manager",4
+"Haematologist",6
+"Estate manager/land agent",11
+"Engineer, agricultural",2
+"Chemical engineer",2
+"Research officer, trade union",15
+"Programmer, multimedia",3
+"Journalist, broadcasting",4
+"Engineer, manufacturing systems",2
+"IT sales professional",3
+"Contracting civil engineer",2
+"Physiological scientist",7
+"Outdoor activities/education manager",13
+"Clinical psychologist",6
+"Immunologist",6
+"Designer, fashion/clothing",12
+"Civil engineer, consulting",2
+"Toxicologist",7
+"Ambulance person",6
+"Armed forces technical officer",5
+"Scientist, forensic",7
+"Surveyor, hydrographic",11
+"Osteopath",6
+"Occupational psychologist",6
+"Clinical research associate",7
+"Phytotherapist",6
+"Press photographer",4
+"Optician, dispensing",6
+"Tax adviser",14
+"Company secretary",15
+"Politician's assistant",5
+"Insurance underwriter",14
+"Industrial buyer",15
+"Therapist, art",6
+"Sports administrator",1
+"Operations geologist",7
+"Museum/gallery curator",8
+"Information officer",5
+"Tour manager",1
+"Building surveyor",11
+"Occupational hygienist",6
+"Publishing rights manager",4
+"Banker",14
+"Chartered accountant",14
+"General practice doctor",6
+"Surveyor, planning and development",11
+"Production assistant, radio",4
+"Visual merchandiser",12
+"International aid/development worker",5
+"Metallurgist",7
+"Therapeutic radiographer",6
+"Quarry manager",15
+"Acupuncturist",6
+"Games developer",3
+"Paediatric nurse",6
+"Museum education officer",13
+"Broadcast presenter",4
+"Pathologist",6
+"Ergonomist",15
+"Fish farm manager",15
+"Recycling officer",5
+"Translator",15
+"Exhibitions officer, museum/gallery",8
+"Social research officer, government",5
+"Energy manager",15
+"Learning disability nurse",6
+"Farm manager",15
+"Television camera operator",8
+"Education administrator",13
+"Conservator, museum/gallery",8
+"Engineer, technical sales",2
+"Designer, ceramics/pottery",12
+"Higher education careers adviser",13
+"Nurse, learning disability",6
+"Magazine journalist",4
+"Product/process development scientist",7
+"Site engineer",11
+"Accommodation manager",1
+"Accounting technician",14
+"Intelligence analyst",5
+"Clinical scientist, histocompatibility and immunogenetics",7
+"Race relations officer",5
+"Field trials officer",15
+"Holiday representative",1
+"Volunteer coordinator",15
+"Primary school teacher",13
+"Medical secretary",6
+"Administrator, education",13
+"Fine artist",8
+"Community education officer",13
+"Sports coach",1
+"Radio broadcast assistant",4
+"Dancer",8
+"Meteorologist",7
+"Designer, jewellery",12
+"Civil Service administrator",5
+"Secretary, company",15
+"Nurse, mental health",6
+"Automotive engineer",2
+"Psychologist, occupational",6
+"Personal assistant",15
+"Technical author",4
+"Health service manager",6
+"Production designer, theatre/television/film",8
+"Estate agent",11
+"Firefighter",5
+"Commercial horticulturist",15
+"Analytical chemist",7
+"Engineer, materials",2
+"Biochemist, clinical",7
+"Editorial assistant",4
+"Chartered legal executive (England and Wales)",10
+"Therapist, horticultural",6
+"Aeronautical engineer",2
+"Scientist, audiological",7
+"Interior and spatial designer",11
+"Communications engineer",2
+"Counselling psychologist",6
+"Librarian, public",13
+"Tourist information centre manager",1
+"Photographer",8
+"Adult nurse",6
+"Applications developer",3
+"Naval architect",5
+"Psychiatric nurse",6
+"Fitness centre manager",1
+"Barrister",10
+"Psychotherapist, dance movement",8
+"Therapist, drama",6
+"Architectural technologist",3
+"Rural practice surveyor",11
+"Engineer, civil (consulting)",2
+"Advertising copywriter",9
+"Field seismologist",7
+"Dealer",12
+"Gaffer",8
+"Copy",4
+"Soil scientist",7
+"Teacher, adult education",13
+"Geologist, wellsite",7
+"Development worker, international aid",5
+"Trading standards officer",5
+"Teacher, English as a foreign language",13
+"Public librarian",13
+"Financial risk analyst",14
+"Engineer, water",2
+"Sports therapist",6
+"Media planner",4
+"Medical physicist",6
+"Aid worker",5
+"Production engineer",2
+"Media buyer",9
+"Research scientist (medical)",7
+"Designer, television/film set",8
+"IT consultant",3
+"Scientist, research (life sciences)",7
+"Television production assistant",8
+"Solicitor",10
+"Hydrogeologist",7
+"Chartered certified accountant",14
+"Production manager",15
+"Economist",7
+"Civil engineer, contracting",2
+"Glass blower/designer",8
+"Biomedical scientist",7
+"Designer, industrial/product",15
+"Engineer, site",2
+"Scientific laboratory technician",7
+"Armed forces logistics/support/administrative officer",5
+"Chartered management accountant",14
+"Local government officer",5
+"Sport and exercise psychologist",6
+"Health and safety adviser",5
+"Copywriter, advertising",9
+"Pharmacologist",6
+"Tax inspector",5
+"Orthoptist",6
+"Medical technical officer",5
+"Logistics and distribution manager",15
+"Sports development officer",5
+"Nature conservation officer",5
+"Geophysical data processor",3
+"Herbalist",7
+"Furniture designer",12
+"Materials engineer",2
+"Petroleum engineer",2
+"Designer, exhibition/display",12
+"Records manager",15
+"Operational researcher",7
+"Patent attorney",10
+"Engineer, manufacturing",2
+"Market researcher",12
+"Manufacturing engineer",2
+"Geophysicist/field seismologist",7
+"Pharmacist, hospital",6
+"Forensic scientist",7
+"Production assistant, television",8
+"Travel agency manager",1
+"Financial controller",14
+"Buyer, industrial",15
+"Television/film/video producer",8
+"Mental health nurse",6
+"Corporate investment banker",14
+"Amenity horticulturist",15
+"Hotel manager",1
+"Water engineer",2
+"Learning mentor",13
+"Trade union research officer",5
+"Warehouse manager",12
+"Child psychotherapist",6
+"Video editor",8
+"Social researcher",7
+"Cytogeneticist",7
+"Claims inspector/assessor",15
+"Insurance broker",15
+"Graphic designer",3
+"Retail merchandiser",12
+"Programmer, applications",3
+"Illustrator",4
+"Warden/ranger",1
+"Midwife",15
+"Event organiser",1
+"Designer, multimedia",3
+"Exercise physiologist",6
+"Seismic interpreter",7
+"Accountant, chartered public finance",14
+"Environmental consultant",2
+"English as a foreign language teacher",13
+"Public relations officer",5
+"Building services engineer",11
+"English as a second language teacher",13
+"Therapist, speech and language",6
+"Software engineer",3
+"Facilities manager",11
+"Engineer, civil (contracting)",2
+"Designer, blown glass/stained glass",8
+"Database administrator",3
+"Diagnostic radiographer",6
+"Diplomatic Services operational officer",5
+"Psychotherapist, child",6
+"Magazine features editor",4
+"Armed forces operational officer",5
+"Electrical engineer",2
+"Engineer, control and instrumentation",2
+"Financial planner",14
+"Ranger/warden",1
+"Adult guidance worker",6
+"Industrial/product designer",15
+"Food technologist",7
+"TEFL teacher",13
+"Lighting technician, broadcasting/film/video",8
+"Education officer, community",13
+"Doctor, hospital",6
+"Investment banker, operational",14
+"Psychotherapist",6
+"Engineering geologist",2
+"Art gallery manager",8
+"Presenter, broadcasting",4
+"Engineer, maintenance (IT)",2
+"Chemist, analytical",7
+"Biomedical engineer",2
+"Geoscientist",7
+"Manufacturing systems engineer",2
+"Engineer, electronics",2
+"Network engineer",2
+"Freight forwarder",15
+"Futures trader",14
+"Dance movement psychotherapist",6
+"Surveyor, mining",11
+"Information systems manager",3
+"Pilot, airline",15
+"Engineer, building services",11
+"Medical laboratory scientific officer",7
+"Journalist, newspaper",4
+"Ceramics designer",15
+"Psychologist, prison and probation services",6
+"Conservator, furniture",8
+"Maintenance engineer",11
+"Plant breeder/geneticist",7
+"Licensed conveyancer",15
+"Location manager",11
+"Emergency planning/management officer",5
+"IT technical support officer",3
+"Youth worker",15
+"Teacher, music",13
+"Marine scientist",7
+"Horticulturist, commercial",12
+"Sub",13
+"Risk manager",14
+"Leisure centre manager",1
+"Oceanographer",7
+"Education officer, environmental",13
+"Editor, magazine features",4
+"Multimedia specialist",4
+"Forensic psychologist",6
+"Engineer, electrical",2
+"Consulting civil engineer",2
+"Engineer, aeronautical",2
+"Research scientist (life sciences)",7
+"Commercial art gallery manager",8
+"Set designer",8
+"Hospital pharmacist",6
+"Operational investment banker",14
+"Teacher, secondary school",13
+"Administrator, sports",1
+"Artist",8
+"Ecologist",7
+"Nurse, children's",6
+"Senior tax professional/tax inspector",14
+"Environmental education officer",13
+"Art therapist",6
+"Teaching laboratory technician",15
+"Teacher, special educational needs",13
+"Conservation officer, nature",5
+"Clothing/textile technologist",12
+"Sales professional, IT",3
+"Scientist, research (maths)",7
+"Environmental health practitioner",6
+"Psychologist, forensic",6
+"Engineer, production",2
+"Wellsite geologist",7
+"Training and development officer",5
+"Podiatrist",6
+"Hydrologist",15
+"Chiropractor",6
+"Surveyor, minerals",11
+"Bookseller",12
+"Building control surveyor",11
+"Trade mark attorney",10
+"Nutritional therapist",6
+"Buyer, retail",12
+"Human resources officer",5
+"Ophthalmologist",6
+"Retail banker",14
+"Sound technician, broadcasting/film/video",4
+"Journalist, magazine",4
+"Programme researcher, broadcasting/film/video",4
+"Physiotherapist",6
+"Lobbyist",15
+"Conference centre manager",15
+"Secretary/administrator",15
+"Dentist",6
+"Designer, graphic",12
+"Multimedia programmer",3
+"Horticultural consultant",15
+"Therapist, occupational",6
+"Cabin crew",15
+"Public house manager",11
+"Engineer, chemical",2
+"Teacher, primary school",13
+"Advice worker",15
