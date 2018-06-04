@@ -14,7 +14,7 @@ Use IBM’s  Watson Studio and IBM cloud services to create a working cloud-base
 
 1. [Lab-2](Lab-2) - The second lab will guide participants in creating an R notebook and Shiny UI in Watson Studio using RStudio. It will rely on the output results from Lab-1. 
 
-1. [Lab-3](Lab-3) - The third lab will use IBM's Neural Network designer and Experiment builder to build and train a simple Convolutional Neural Network. We will use the well-known MNIST dataset for training, test, and validation [http://yann.lecun.com/exdb/mnist/](MNIST)
+1. [Lab-3](Lab-3) - The third lab will use IBM's Neural Network designer and Experiment builder to build and train a simple Convolutional Neural Network. We will use the well-known MNIST dataset for training, test, and validation [MNIST](http://yann.lecun.com/exdb/mnist/)
 
 1. [Lab-4](Lab-4) - Time permitting there will be two labs to choose from for Lab 4. The first one features Watson Machine Learning, a point and click capability to build a machine learning model and deploy it. The second lab features the Canvas- a visual programming tool to create a machine learning pipeline. 
 
