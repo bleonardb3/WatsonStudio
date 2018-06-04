@@ -23,17 +23,13 @@ Upon completing the lab, you will know how to:
 ## Instructions:
 
 ### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then click Projects in the top menubar and select the project you created at the beginning of this proof of technology.
-
-### Step 2.  Click the `Add to project > Notebook` link in the top right of your project pane.
 <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/images/Select%20Project.png"/>
 
-### Step 3.  Click the `From URL` tab under `Create Notebook`.
+### Step 2.  Click the `Add to project > Notebook` link in the top right of your project pane.
+<img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/images/Add%20to%20Project.png"/>
 
-### Step 4.  Give the notebook a name in the `Name` field, for example `Machine learning with SparkML` and optionally you can give it a description.
-
-### Step 5.  In the Notebook URL field, use `https://github.com/bleonardb3/DSX/blob/master/Lab-2/Categorizing-Vetted-Data.ipynb`
-
-<img src="https://github.com/bleonardb3/DSX/blob/master/Lab-2/images/Lab2ReadmeNewNotebook.png"/>
+### Step 3.  Click the `From URL` tab under `Create Notebook`. Give the notebook a name in the `Name` field, for example `Machine learning with SparkML` and optionally you can give it a description. In the Notebook URL field, use `https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/Categorizing-Vetted-Data.ipynb`. In the environment field, make sure to select the Spark service. 
+<img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/images/Create%20Project.png"/>
 
 ### Step 6.  Ensure that there is a `Spark Service` selected, then click the `Create Notebook` button on the bottom right of the screen.
 
