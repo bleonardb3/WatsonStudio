@@ -10,7 +10,7 @@ In this lab, you will use SparkML in IBM Data Science Experience to run generate
 Upon completing the lab, you will know how to:
 
 
-1. Connect to a database and read data used for machine learning.
+1. Connect to cloud object storage and read data used for machine learning.
 2. Identify labels and transform data.
 3. Conduct feature engineering for algorithm data.
 4. Declare a machine learning model.
@@ -18,7 +18,7 @@ Upon completing the lab, you will know how to:
 6. Train the data.
 7. Show and evaluate machine learning results.
 8. Automatically tune machine learning results.
-9. Score data and load  into a new table in DB2 Warehouse.
+9. Score data and load results into cloud object storage. 
 
 ## Instructions:
 
