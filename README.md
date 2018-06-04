@@ -18,110 +18,68 @@ Use IBM’s  Watson Studio and IBM cloud services to create a working cloud-base
 
 1. [Lab-4](Lab-4) - Time permitting there will be two labs to choose from for Lab 4. The first one features Watson Machine Learning, a point and click capability to build a machine learning model and deploy it. The second lab features the Canvas- a visual programming tool to create a machine learning pipeline. 
 
-## Instructions:
+## Instructions: Create a Watson Studio project and set up the required services. 
 
-### Step 1. Sign up for the IBM Data Science Experience (DSX).   We recommend using the Firefox browser.
+### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then select `View All Projects`.
 
-__NOTE__: If you already have a DSX account, please skip to __Step 2__.
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20View%20All%20Projects.png"/>
 
-#### Create an account.
+### Step 2.  If you have an existing project from following the signup instructions then select it, and skip to Step 8.  Otherwise, click on `New Project`. 
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20New%20Project.png"/>
 
-1.  Go to [http://datascience.ibm.com/](http://datascience.ibm.com/)
+### Step 3. Enter the project name (eg. Watson Studio Labs), optionally a description, and then click on `Add` in the Storage section. Note if you have already provisioned cloud object storage (you shouldn't see an Add button) , then just click on the `Create` button, and skip to Step 8. 
 
-2.  Click the signup button on the top right
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/New%20Project%20Panel%20-%20Add%20Storage.png"/>
 
-> <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Sign%20Up%20Image.png" width="624" height="300">
+### Step 4. Click on the Lite plan, and then click on `Create`. 
 
-3. Enter your email, click to accept the terms, and click Next. Note: If you already have an IBM id you can click Sign in with your IBM id -- if you don't have a DSX account one will be created for you.
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Create%20Object%20Storage.png"/>
 
-> <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Try%20Watson%20Data%20Platform.png" width="624" height="300">
+### Step 5. Optionally change the storage name, and then click on `Confirm`
 
-4. On the next page, fill in the corresponding fields and click Create Account
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Confirm%20Creation.png"/>
 
- >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Try%20IBM%20Cloud.png" width="624" height="300">
+### Step 6. Click on `Refresh`. 
 
-5. You will see the following screen. You need to go to your e-mail account to complete the sign up process.
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Click%20Refresh.png"/>
 
- > <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Thanks.png" width="624" height="300"/>
+### Step 7.  The cloud object storage should appear. Now click on `Create`. 
 
-6. In your e-mail inbox, there should be a message from The Bluemix Team.
+> <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Click%20Project%20Create.png"/>
 
- >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Gmail.png"/>
+### Step 8. 
 
-7. Open the e-mail and click on Confirm Account.
+The labs in this Proof of Technology will require the following services to be created and associated with your project. 
+1. Object Storage
+1. Watson Machine Learning
+1. Apache Spark  
 
- >  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Gmail%202.png"/>
+The Object Storage service instance should already exist, having been created when the Watson Studio Labs (or whatever you named it) project was created. Both the Watson Machine Learning service, and the Apache Spark service need to be created and then associated with the project.  
 
-8. Go back to the DSX session, and enter your DSX user id (e-mail account) and click Continue. Or, skip to step 10 if the system automatically logs you in. 
+### Step 9.  Click on the project `Settings` tab.
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Sign%20into%20IBM.png"/>
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Settings.png"/>
 
-9.  Enter your password and click Sign in.
+### Step 10. Scroll down to `Associated Services`, then select `Add service` and select `Machine Learning`.
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Enter%20Password.png"/>
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Add%20Machine%20Learning%20Service.png"/>
 
-10. Select the IBM Cloud Account (IBM), select the organization (your e-mail), and then select the space (dev) and click Continue.
+### Step 11. Select `New`.
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Select%20Organization.png"/>
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20New%20Service.png"/>
 
-11. It may take several minutes to set up the account. You will see several screens pop-up (e.g. Registering User, Initializing Environment). Wait until you see the following screen and then click on Get Started.
+### Step 12. Select the `Lite` plan. 
 
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Done.png"/>
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Lite%20ML.png"/>
+
+### Step 13. Scroll down and click `Create` and then click `Confirm`. Note, you can change the name of the machine learning service or accept the default. 
+
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Scroll%20down%20hit%20Create%20and%20then%20Confirm.png"/>
+
+### Step 14. The Machine Learning service that you created should now appear in `Associated Services`. 
+
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/See%20ML%20in%20Associated%20Services..png"/>
+
+### Step 15. Follow the same process as in steps 4-8, except this time add a Spark service. 
 
 
- > You are now in the Data Science Experience landing page. From here you can explore any of the tutorials, videos, sample notebooks, tutorials or articles in the community.
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Welcome.png"/>
-
-### Step 2. Create a project
-
-1. Click on Projects > View All Projects to see a list of your projects. 
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/View%20All%20Projects.png"/>
-
-2. If you just signed up, you will not have any projects. Click on the New project button. 
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/ClickNewProject.png"/>
-
-3. Type a name for your project. For instance, "DSX Labs" and optionally a Description.  You will need to assign Object Storage.  Press on the Add link in the Object Storage section below. 
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/New%20Project.png"/>
-
-4. Select the Lite Plan and press Create. 
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/SelectLiteObjectPlan.png"/>
-
-5. Press Confirm
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/ConfirmLiteObjectPlan.png"/>
-
-6. Go back to the New Project page, and click Refresh in the Object Storage section. 
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Hit%20Refresh%20for%20Object%20Storage.png"/>
-
-7. Now create a Spark Service.  Press the Add link in the Spark section. 
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Add%20Spark%20Service.png"/>
-
-8. Select the Lite Plan and click Create. 
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/SelectLiteSparkPlan.png"/>
-
-9. Press Confirm
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/ConfirmLiteSparkPlan.png"/>
-
-10. Go back to the New Project page, and click Refresh in the Spark service section. 
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Hit%20Refresh%20for%20Spark%20Service.png"/>
-
-11. Click Create. 
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Hit%20Create%20for%20New%20Project.png"/>
-
-12. The project overview page appears. You are now in your new project where you can create notebooks, add data assets, and add collaborators. 
-
->  <img src="https://github.com/bleonardb3/DSX/blob/master/images/signup/Project%20Overview.png"/>
- 
-
-You are now ready to begin [Lab-1](Lab-1/).
