@@ -1,4 +1,4 @@
-# IBM Proof of Technology - Data Science Experience
+# IBM Proof of Technology - Watson Studio
 
 ## Description:
 
@@ -8,13 +8,13 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/RStudio2.png"/>](https://www.rstudio.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/shiny.png"/>](https://shiny.rstudio.com/)
 
-Use IBM’s Data Science Experience (DSX) and IBM cloud services to create a working cloud-based application from start to finish.  Participants will be led through a series of three labs that build upon one another so it is important that they are completed in order. A fourth lab will explore additional features of the Data Science Experience. 
+Use IBM’s  Watson Studio and IBM cloud services to create a working cloud-based application from start to finish in Labs-1 and Lab-2.   Use Watson Studio's Neural Network designer and Experiment Builder to build, train, and deploy a neural network model in Lab-3. Lab-4 will offer a choice of labs that explore additional features of Watson Studio.  
 
-1. [Lab-1](Lab-1) - The first lab will begin with loading raw delimited data into DB2 Warehouse for Cloud and interacting with that data from a Jupyter notebook in DSX with python.
+1. [Lab-1](Lab-1) - The first lab will leverage Spark machine learning (SparkML) in a Jupyter notebook to create categorical predictions using pyspark and a supervised learning model. The model will be saved into a model repository using Watson Machine Learning APIs. 
 
-1. [Lab-2](Lab-2) - The second lab will leverage Spark machine learning (SparkML) on the loaded data to create categorical predictions using pyspark and a supervised learning model and store the results back to the database.
+1. [Lab-2](Lab-2) - The second lab will guide participants in creating an R notebook and Shiny UI in Watson Studio using RStudio. It will rely on the output results from Lab-1. 
 
-1. [Lab-3](Lab-3) - The third lab will guide participants in creating an R notebook and Shiny UI in DSX using RStudio.
+1. [Lab-3](Lab-3) - The third lab will use IBM's Neural Network designer and Experiment builder to build and train a simple Convolutional Neural Network. We will use the well-known MNIST dataset for training, test, and validation [http://yann.lecun.com/exdb/mnist/](MNIST)
 
 1. [Lab-4](Lab-4) - Time permitting there will be two labs to choose from for Lab 4. The first one features Watson Machine Learning, a point and click capability to build a machine learning model and deploy it. The second lab features the Canvas- a visual programming tool to create a machine learning pipeline. 
 
