@@ -28,7 +28,11 @@ Upon completing the lab, you will know how to:
 ### Step 2.  Click the `Add to project > Notebook` link in the top right of your project pane.
 <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/images/Add%20to%20Project.png"/>
 
-### Step 3.  Click the `From URL` tab under `Create Notebook`. Give the notebook a name in the `Name` field, for example `Machine learning with SparkML` and optionally you can give it a description. In the Notebook URL field, use `https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/Categorizing-Vetted-Data.ipynb`. In the runtimes field, make sure to select the Spark service, and the click on `Create Notebook`
+### Step 3.  Click the `From URL` tab under `Create Notebook`. Give the notebook a name in the `Name` field, for example `Machine learning with SparkML` and optionally you can give it a description. In the Notebook URL field, use
+
+`https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/Categorizing-Vetted-Data.ipynb`. 
+
+In the `Select runtime` field, make sure to select the Spark service, and then click on `Create Notebook`
 <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/images/Create%20Notebook.png"/>
 
 ### Step 4.  Follow the instructions in the notebook.
