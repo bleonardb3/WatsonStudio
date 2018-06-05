@@ -22,7 +22,7 @@ Upon completing the lab, you will know how to:
 
 ## Instructions:
 
-### Step 1. Right click on the [link](https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/data/female_human_trafficking.csv) and then click on the `Save link as...` and then click `Save` to download the female_human_trafficking file to your computer. Don't change the name of the file. 
+### Step 1. Right click on the [link](https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/data/female_human_trafficking.csv) and then click on the `Save link as...` and then click `Save` to download the `female_human_trafficking file` to your computer. Don't change the name of the file. 
 
 ### Step 2.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then click Projects in the top menubar and select the project you created at the beginning of this proof of technology.
 <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/images/Select%20Project.png"/>
