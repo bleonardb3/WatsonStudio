@@ -3,12 +3,6 @@
 ## Introduction:
 
 This lab will use the MNIST computer vision data set to train a convolutional neural network (CNN) model to recognize handwritten digits. The Watson Studio neural network flow editor, Watson Studio experiment builder and the Watson Machine Learning component  will be used to build, train, and deploy the model.  The lab consists of the following steps:
-1.	Set up the data files in IBM Cloud Storage.
-2.	Design the neural network
-3.	Train the model
-4.	Monitor the training progress and results
-5.	Deploy the trained model
-6.	Test the deployed model 
 
 ## Objectives:
 
