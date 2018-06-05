@@ -1,4 +1,4 @@
-# Work with trafficking data and create a user interface in R using RStudio and Shiny
+# Build, Train, and Deploy a Neural Network Model using Watson Studio
 
 ## Introduction:
 
