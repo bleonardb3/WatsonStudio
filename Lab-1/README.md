@@ -33,8 +33,7 @@ Upon completing the lab, you will know how to:
 ### Step 4.  Click on `browse`. 
 <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/images/Click%20Browse.png"/>
 
-### Step 5. Navigate to the folder where you downloaded the `female_human_trafficking.csv` file. Click on the file, and then click on 
-`Open`. 
+### Step 5. Navigate to the folder where you downloaded the `female_human_trafficking.csv` file. Click on the file, and then click on `Open`.
 <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/images/Navigate%20to%20File.png"/>
 
 ### Step 6. Click on the `Assets` tab (if you are not already on that panel) and you should see `female_human_trafficking.csv` listed under the `Data Assets` category. 
