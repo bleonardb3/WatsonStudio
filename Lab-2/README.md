@@ -24,33 +24,33 @@ Upon completing the lab, you will know how to:
 
 ### Step 1.  Log into your [http://datascience.ibm.com/](http://datascience.ibm.com/) account, then click Tools in the top menu bar and select RStudio.
 
-> <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-select.png"/>
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/Select%20RStudio.png"/>
 
 ### Step 2.  Create a new project by clicking on `File` > `New Project`.
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-new-project.png"/>
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/File%20New%20Project.png"/>
 
 ### Step 3.  Select `Version Control`.
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-new-version-control-project.png"/>
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/Select%20Version%20Control.png"/>
 
 ### Step 4.  Select `Git`.
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-select-git-project.png"/>
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/Select%20Git.png"/>
 
-### Step 5.  Fill in git repository details using the URL `https://github.com/bleonardb3/DSX` and press `Create Project`.
-> <img src="https://github.com/bleonardb3/DSX/blob/master/Lab-3/images/Lab3CloneGitRepository.png"/>
+### Step 5.  Fill in git repository details using the URL `https://www.github.com/bleonardb3/WatsonStudio` and press `Create Project`.
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/Create%20R%20Project.png"/>
 
 After the project gets created, you'll see a screen similar to the following:
 
-> <img src="https://raw.githubusercontent.com/bleonardb3/DSX/master/Lab-3/images/RStudio-project-created.png"/>
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/RStudio.png"/>
 
-### Step 6.  In the files pane in the lower right of the RStudio IDE, click `Lab-3`.
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-files.png"/>
+### Step 6.  In the files pane in the lower right of the RStudio IDE, click `Lab-2`.
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/Select%20Lab-2.png"/>
 
-### Step 7.  Click the `connection.R` file and fill in your DB2 Warehouse connection details.   You can find these from one of the previous labs.   Don't forget to set vetting.table to 'FEMALE_HUMAN_TRAFFICKING'.   Save the file.
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-connection.png"/>
+### Step 7.  Click the `connection.R` file and fill in the Cloud Object Storage connection details for the `female_human_trafficking.csv' file. You can find these in the Lab-1 notebook. Save the file.
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/Insert%20Credentials.png"/>
 
-### Step 8.  Click the `dashConnectAndInteractInR.R` file in the files pane in the lower right of the RStudio IDE and run the cells in sequence from top to bottom in the notebook using the `Run current chunk` (green triangle) button in the top right of each cell.
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-notebook.png"/>
+### Step 8.  Click the `dashConnectAndInteractInR.Rmd` file in the files pane in the lower right of the RStudio IDE and run the cells in sequence from top to bottom in the notebook using the `Run current chunk` (green triangle) button in the top right of each cell.
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/Select%20Notebook%20and%20Run%20Chunk.png"/>
 
 Consider this notebook your *data playground*.  This is the place where you can test out new ideas, connect and fuse various data sets and try out different visualizations.  If you're happy with something in your notebook, then go ahead and make it available to interact with in your app.
 
