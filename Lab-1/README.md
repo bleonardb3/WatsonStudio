@@ -37,6 +37,7 @@ Upon completing the lab, you will know how to:
 <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/images/Navigate%20to%20File.png"/>
 
 ### Step 6. Click on the `Assets` tab (if you are not already on that panel) and you should see `female_human_trafficking.csv` listed under the `Data Assets` category. 
+<img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/images/Data%20Asset.png"/>
 
 ### Step 7.  Click the `Add to project > Notebook` link in the top right of your project pane.
 <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-1/images/Add%20to%20Project.png"/>
