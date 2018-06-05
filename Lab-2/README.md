@@ -11,16 +11,14 @@ In this lab, you will learn some of the fundamentals of using RStudio and Shiny 
 Upon completing the lab, you will know how to:
 
 1. Create an RStudio project from a Git repository
-1. Establish a connection to DB2 Warehouse using an ancillary file
+1. Establish a connection to IBM Cloud Object Storage using an ancillary file
 1. Query, join, explore and visualize data in an R notebook
 1. Derive categorical names from numerical levels in an R dataframe
 1. Use ggplot2 to create bar plots of several of the columns in an R dataframe
 1. Use a logorithmic scale when creating bar plots
-1. Close the database connection
 1. Leverage shiny to create and run a web application
 1. Interact with the shiny web web application by runnng it externally
-1. Vet additional records in DB2 Warehouse using the web application
-1. Explore the changes made after vetting and re-running the predictions generated in Lab-2
+1. Vet additional records using the web application
 
 ## Instructions:
 
