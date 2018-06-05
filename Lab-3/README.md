@@ -17,3 +17,7 @@ Upon completing the lab, you will:
 
 ## Instructions:
 
+### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
+
+[Instructions](https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-3/Neural%20Network%20Modeling%20with%20MNIST%20data%20set.pdf). 
+
