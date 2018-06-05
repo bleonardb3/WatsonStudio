@@ -54,11 +54,11 @@ After the project gets created, you'll see a screen similar to the following:
 
 Consider this notebook your *data playground*.  This is the place where you can test out new ideas, connect and fuse various data sets and try out different visualizations.  If you're happy with something in your notebook, then go ahead and make it available to interact with in your app.
 
-### Step 9.  Click the `app.R` file in the files pane in the lower right of the RStudio IDE
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-shiny-app.png"/>
+### Step 9.  Click the `app.R` file in the files pane in the lower right of the RStudio IDE. Click the `Run App` (green triangle) in the top right of the main panel to run the app.
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/RunApp.png"/>
 
-### Step 10.  Click the `Run App` (green triangle) in the top right of the main panel to run the app.  The app should appear in the Viewer pane in the bottom right corner of the IDE.  If it does not, select the little black downward pointing triangle and set to Run in Viewer Pane.
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-app-viewer.png"/>
+### Step 10. The app should appear in the Viewer pane in the bottom right corner of the IDE.  If it does not, select the little black downward pointing triangle and set to Run in Viewer Pane.
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/RunAppViewerPane.png"/>
 
 ### Step 11.  Click the little black downward pointing triangle next to the  `Run App` (green triangle) in the top right of the main panel to run the app in another browser window (Run External).
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-app-external.png"/>
@@ -68,8 +68,8 @@ Consider this notebook your *data playground*.  This is the place where you can 
 
 ### Step 13.  Interact with your app and consider ways it can be improved.
 
-Notice how your app reacts as you interact with it.  Try out the search in the upper right corner.  Try the filters above the various columns.  Click on the items in the pie graph legend as well as the various wedges in the pie.   Click on some of the rows in the table and save your vettings.  As the vettings are saved, they are persisted back to DB2 Warehouse (you can verify this yourself by queying your DB2 Warehouse instance).  Now, go back to your Lab-2 notebook and re-run the ML predictions and see the changes reflected there, in DB2 Warehouse and in the UI (you'll need to restart your shiny app to pick up the changes).   Or you might consider scheduling Lab-2 to run on the hour to pick up any changes....
+Notice how your app reacts as you interact with it.  Try out the search in the upper right corner.  Try the filters above the various columns.  Click on the items in the pie graph legend as well as the various wedges in the pie.   Click on some of the rows in the table and save your vettings.  
 
 ### Step 14.  [Get Inspired!](https://shiny.rstudio.com/gallery/)
 
-You now have an end-to-end skeleton application that uses vetting data, DB2 Warehouse, SparkML and DSX that you can now flesh out into something truly useful in a short amount of time without having to write a lot of code.
+You now have an end-to-end skeleton application that uses vetting data, Cloud Object Storage, SparkML and Watson Studio that you can now flesh out into something truly useful in a short amount of time without having to write a lot of code.
