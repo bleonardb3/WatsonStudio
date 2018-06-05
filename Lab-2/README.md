@@ -46,7 +46,7 @@ After the project gets created, you'll see a screen similar to the following:
 ### Step 6.  In the files pane in the lower right of the RStudio IDE, click `Lab-2`.
 > <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/Select%20Lab-2.png"/>
 
-### Step 7.  Click the `connection.R` file and fill in the Cloud Object Storage connection details for the `female_human_trafficking.csv' file. You can find these in the Lab-1 notebook. Save the file.
+### Step 7.  Click the `connection.R` file in the files pane in the lower right of the RStudio IDE and fill in the Cloud Object Storage connection details where it says "INSERT HERE". You can find these in the Lab-1 notebook. Save the file.
 > <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/Lab-2/images/Insert%20Credentials.png"/>
 
 ### Step 8.  Click the `dashConnectAndInteractInR.Rmd` file in the files pane in the lower right of the RStudio IDE and run the cells in sequence from top to bottom in the notebook using the `Run current chunk` (green triangle) button in the top right of each cell.
