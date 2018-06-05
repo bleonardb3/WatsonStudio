@@ -3,6 +3,19 @@
 # 1. female_human_trafficking.csv
 # 2. trafficking_results.csv
 
+# First obtain the object storage credentials - you can get these from the Lab-1 notebook. 
+
+# ************************   INSERT OBJECT STORAGE CREDENTIALS  **************************************
+
+credentials <-list(
+  endpoint = "https://s3-api.us-geo.objectstorage.service.networklayer.com",
+  api.key = "INSERT HERE",
+  service.id = "INSERT HERE",
+  bucket.name = "INSERT HERE",
+  file.name = "female_human_trafficking.csv",
+  iam.service.endpoint = "https://iam.ng.bluemix.net/oidc/token")
+
+
 # First, connect to the Spark service using sparklyr’s spark_connect function. 
 library(sparklyr)
 library(dplyr)
@@ -12,7 +25,7 @@ sc <- spark_connect(config = kernels[1])
 # Next obtain the object storage credentials - you can get these from the Lab-1 notebook. Replace the fields marked 
 # INSERT HERE
 
-source('credentials.R', local = TRUE)
+#source('credentials.R', local = TRUE)
 
 
 # Now in order for us to access Cloud Object Storage file ‘female_human_trafficking.csv’ and 'trafficking_results.csv', 

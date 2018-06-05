@@ -13,7 +13,7 @@ When you save the notebook, an HTML file containing the code and output will be 
 
 ```{r}
 # Detect and install missing packages before loading them
-list.of.packages <- c('ibmdbR', 'ggplot2')
+list.of.packages <- c('ibmdbR', 'ggplot2','sqldf')
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,'Package'])]
 if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, function(x){library(x, character.only = TRUE, warn.conflicts = FALSE, quietly = TRUE)})
@@ -42,7 +42,7 @@ Join the vetting table with the vetting predictions table.
 
 ```{r}
 # Join the ML predictions with the vetting table using the UUID
-install.packages("sqldf")
+#install.packages("sqldf")
 library(sqldf)
 
 predicted = sqldf("select * from r_female_human_trafficking_df as fht left join r_trafficking_results_df as tr on fht.UUID=tr.UUID ORDER BY VETTING_LEVEL,NAME")
