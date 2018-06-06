@@ -76,9 +76,9 @@ The Object Storage service instance should already exist, having been created wh
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Lite%20ML.png"/>
 
-### Step 13. Scroll down and click `Create` and then click `Confirm`. Note, you can change the name of the machine learning service or accept the default. 
+### Step 13. Scroll down and click `Create`, then change the `Service name` to `Machine Learning` in the `Confirm Creation` panel and click `Confirm`.  
 
-> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Scroll%20down%20hit%20Create%20and%20then%20Confirm.png"/>
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/images/ConfirmMachineLearningCreation.png"/>
 
 ### Step 14. The Machine Learning service that you created should now appear in `Associated Services`. 
 
