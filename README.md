@@ -60,15 +60,19 @@ The Object Storage service instance should already exist, having been created wh
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Settings.png"/>
 
-### Step 10. Scroll down to `Associated Services`, then select `Add service` and select `Machine Learning`.
+### Step 10. Scroll down to `Associated Services`, then select `Add service` and select `Watson`.
 
-> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Add%20Machine%20Learning%20Service.png"/>
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/images/SelectWatsonService.png"/>
 
-### Step 11. Select `New`.
+### Step 11. Select the `Machine Learning` service 
+
+> <img src="https://github.com/bleonardb3/WatsonStudio/blob/master/images/SelectMachineLearningService.png"/>
+
+### Step 12. Select `New`.
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20New%20Service.png"/>
 
-### Step 12. Select the `Lite` plan. 
+### Step 13. Select the `Lite` plan. 
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Lite%20ML.png"/>
 
