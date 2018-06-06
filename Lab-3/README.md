@@ -9,8 +9,8 @@ This lab will use the [MNIST](http://yann.lecun.com/exdb/mnist/) computer vision
 Upon completing the lab, you will:
 
 1. Create Cloud Object Storage buckets to contain the input and result files
-1. Become familiar with the neural network flow editor used to design the neural network model
-1. Become familiar with the experiment builder used to set up a training definition to train the neural network model
+1. Use the neural network flow editor to create a neural network design from an example.  
+1. Use the Experiment builder to set up a training definition to train the neural network model
 1. Monitor the training progress and results.  
 1. Deploy the trained model 
 1. Test the deployed model. 
