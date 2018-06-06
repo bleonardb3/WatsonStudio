@@ -84,6 +84,6 @@ The Object Storage service instance should already exist, having been created wh
 
 > <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/See%20ML%20in%20Associated%20Services..png"/>
 
-### Step 15. Follow the same process as in steps 4-8, except this time add a Spark service. 
+### Step 15. Follow the same process as in steps 10-14, except this time add a Spark service. 
 
 
