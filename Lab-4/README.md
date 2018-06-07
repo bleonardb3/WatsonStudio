@@ -4,6 +4,7 @@ used in Kaggle competitions. Please choose one of the following labs, or do 2 or
 
 1. Watson Machine Learning lab  
 2. Watson Studio SPSS Modeler Lab
+3. Watson Studio Data Refinery Lab
 
 
 ## Watson Machine Learning Lab (4a)
