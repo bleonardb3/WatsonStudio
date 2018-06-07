@@ -60,8 +60,8 @@ In this lab, you will use the Watson Studio Data Refinery to profile data, visua
 Upon completing the lab, you will know how to:
 1. Profile the data to help determine missing values
 1. Visualize the data to gain a better understanding
-c. Prepare the data for modeling
-d. Run the sequence of data preparation operations on the entire data set.
+1. Prepare the data for modeling
+1. Run the sequence of data preparation operations on the entire data set.
 
 ### Step 1. Please click on the link below and then press the `Download` button to download the instructions to your machine
 
